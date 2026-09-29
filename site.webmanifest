@@ -1,0 +1,17 @@
+{
+  "name": "The Wendy House",
+  "short_name": "Wendy House",
+  "description": "Wendy Gregory MSc: Counselling Psychologist, Writer, Broadcaster and Training Consultant.",
+  "start_url": "index.html",
+  "display": "browser",
+  "background_color": "#fbf8f5",
+  "theme_color": "#ce0c47",
+  "icons": [
+    { "src": "assets/img/cropped-logofav-32x32.png", "sizes": "32x32", "type": "image/png" },
+    { "src": "assets/img/logofav.png", "sizes": "80x80", "type": "image/png" },
+    { "src": "assets/img/cropped-logofav-180x180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "assets/img/cropped-logofav-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/img/cropped-logofav-270x270.png", "sizes": "270x270", "type": "image/png" },
+    { "src": "assets/img/cropped-logofav.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
